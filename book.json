@@ -6,6 +6,29 @@
         "chapter-fold",
         "expandable-chapters",
         "splitter",
-        "back-to-top-button"
-    ]
+        "back-to-top-button",
+        "hide-element",
+        "theme-fexa"
+    ],
+    "pluginsConfig":{
+        "hide-element":{
+            "elements":[".gitbook-link"]
+        },
+        "theme-fexa":{
+            "search-placeholder":"输入关键字搜索", 
+            "logo":"./logo.jpg", 
+            "favicon": "./favicon.ico" 
+        }
+    },
+    "variables": {
+        "themeFexa":{
+            "nav":[
+                {
+                    "url":"http://...",
+                    "target":"_blank",
+                    "name": "AdminBI使用教程"
+                }
+            ]
+        }
+    }
 }
