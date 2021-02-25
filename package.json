@@ -1,0 +1,28 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "* **第一章**",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-hide-element": "^0.0.4",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-versions-select": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wang8778/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wang8778/test/issues"
+  },
+  "homepage": "https://github.com/Wang8778/test#readme"
+}
