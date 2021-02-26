@@ -1,4 +1,6 @@
 {
+    "title": "gitbook-v1.0",
+    "language": "zh-hans",
     "plugins":[
         "-lunr",
         "-search",
@@ -13,16 +15,16 @@
     ],
     "pluginsConfig":{
         "hide-element":{
-            "elements":[".gitbook-link","divider"]
+            "elements":[".gitbook-link",".divider"]
         },
          "versions": {
             "options": [
                 {
-                    "value": "http://gitbook.zhangjikai.com",
+                    "value": "https://wang8778.github.io/gitbook-v1.0/",
                     "text": "v1.0"
                 },
                 {
-                    "value": "http://gitbook.zhangjikai.com/v2/",
+                    "value": "https://wang8778.github.io/gitbook-v2.0/",
                     "text": "v2.0"
                 }
             ]
